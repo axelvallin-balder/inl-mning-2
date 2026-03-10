@@ -31,7 +31,7 @@ Använd grid-objektet (exempel finns i BalderJS-API:et) för att skapa något (e
 - [Tetris](https://sv.wikipedia.org/wiki/Tetris)
 
 ### Sudoku-lösare
-...eller liknande. Kräver att man först gör någon av grid-spelen ovan. Sedan ska det implementeras någon form av logik som kan lösa sodukot eller spela röj etc. Olika spel är såklart olika svåra. T.ex. rekommenderar jag att inte implementera en schack-AI.
+...eller liknande. Kräver att man först gör något av grid-spelen ovan. Sedan ska det implementeras någon form av logik som kan lösa sodukot eller spela röj etc. Olika spel är såklart olika svåra. T.ex. rekommenderar jag att inte implementera en schack-AI.
 
 ### Kortspel
 Välj ett valfritt kortspel, t.ex. poker eller blackjack. Du kan börja med att bara skriva ut korten med write, men sikta på att lägga in bilder på kort som spelet kan dela ut.
